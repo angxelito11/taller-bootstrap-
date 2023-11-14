@@ -1,0 +1,23 @@
+
+p{
+    margin: 0;
+    padding: 0;
+}
+
+.icon {
+    width: 30px; 
+    height: auto;
+}
+
+.card{
+    height: 180px;
+}
+
+.icono{
+    height: 50px;
+}
+
+.img-cell{
+    width: 100vh;
+    height: 70vh; 
+}
