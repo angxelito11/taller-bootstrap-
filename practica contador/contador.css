@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: wheat;
+}
+.contador{
+    display: flex;
+    width: 500px;
+    height: 600px;
+    color: wheat;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 10px;
+    background-color: beige;
+    box-shadow: 4px 4px 4px black;
+}
+h1{
+    font-size: 48px;
+    color: black;
+}
+button{
+    font-size: 15px;
+    margin: 15px;
+    padding: 10px;
+}
